@@ -1,6 +1,3 @@
-# Projeto-Portfolio-
-Projeto em desenvolvimento - praticando HTML e CSS
-
 # HTML e CSS — Prática Alura
 
 🚧 Projeto em desenvolvimento 🚧
